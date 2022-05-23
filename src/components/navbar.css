@@ -1,0 +1,11 @@
+.navbar {
+  height: 70px;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+
+  display: flex;
+}
+.navbar > img {
+  padding: 17px 36px;
+}

@@ -1,0 +1,31 @@
+.heroSection {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.heroSection > img {
+  
+  object-fit: cover;
+  height: 400px;
+  padding-left: 16px;
+  padding-right:36px;
+
+width: 1450px;
+}
+.heroSection > h1 {
+  padding-left: 16px;
+  margin-bottom: 0;
+  font-size: 46px;
+  font-weight: 700;
+  color:#7c282a ;
+  
+  
+}
+
+.heroSection > p {
+  padding-left: 16px;
+  margin-top: 0;
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
